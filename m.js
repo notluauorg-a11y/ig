@@ -1,1 +1,0 @@
-$done({ body: `{"success":true,"message":"Success!","execution_data":{"frequency":86400,"executions":[7491642]},"stats":{"obfuscations":1,"scripts":1,"users":0,"attacks_blocked":0,"default":{"scripts":100,"users":500000,"obfuscations":9999},"reset_at":2080394667}}` });
